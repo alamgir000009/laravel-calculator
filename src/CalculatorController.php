@@ -1,6 +1,6 @@
 <?php
 
-namespace LP\Calculator;
+namespace Alamgir\Calculator;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
